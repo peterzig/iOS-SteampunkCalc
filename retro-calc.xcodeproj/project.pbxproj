@@ -12,6 +12,7 @@
 		D0E4D6641E05CC5C0047A495 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D0E4D6621E05CC5C0047A495 /* Main.storyboard */; };
 		D0E4D6661E05CC5C0047A495 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D0E4D6651E05CC5C0047A495 /* Assets.xcassets */; };
 		D0E4D6691E05CC5C0047A495 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D0E4D6671E05CC5C0047A495 /* LaunchScreen.storyboard */; };
+		D0E4D6721E05E9350047A495 /* btn.wav in Resources */ = {isa = PBXBuildFile; fileRef = D0E4D6711E05E9350047A495 /* btn.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,8 @@
 		D0E4D6651E05CC5C0047A495 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D0E4D6681E05CC5C0047A495 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D0E4D66A1E05CC5C0047A495 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D0E4D6701E05E7500047A495 /* Minecraft.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Minecraft.ttf; sourceTree = "<group>"; };
+		D0E4D6711E05E9350047A495 /* btn.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = btn.wav; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +57,8 @@
 		D0E4D65D1E05CC5C0047A495 /* retro-calc */ = {
 			isa = PBXGroup;
 			children = (
+				D0E4D6711E05E9350047A495 /* btn.wav */,
+				D0E4D6701E05E7500047A495 /* Minecraft.ttf */,
 				D0E4D65E1E05CC5C0047A495 /* AppDelegate.swift */,
 				D0E4D6601E05CC5C0047A495 /* ViewController.swift */,
 				D0E4D6621E05CC5C0047A495 /* Main.storyboard */,
@@ -125,6 +130,7 @@
 				D0E4D6691E05CC5C0047A495 /* LaunchScreen.storyboard in Resources */,
 				D0E4D6661E05CC5C0047A495 /* Assets.xcassets in Resources */,
 				D0E4D6641E05CC5C0047A495 /* Main.storyboard in Resources */,
+				D0E4D6721E05E9350047A495 /* btn.wav in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
